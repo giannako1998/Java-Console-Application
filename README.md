@@ -48,7 +48,7 @@ The application simulates a real-world booking system for **theatrical and music
 
 - **Alexandros Nikolaos Tsamprounis** – System Logic, Data Management, OOP Design  
 - **[Panagiotis Zois]** – Interface & File Handling  
-- **[George Giannakopoulos]** – Event Modules & Testing  
+- **[George-Orestis Giannakopoulos]** – Event Modules & Testing  
 
 ---
 
